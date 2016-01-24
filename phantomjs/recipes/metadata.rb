@@ -1,6 +1,0 @@
-name "phantomjs"
-maintainer "Dexter Alkus"
-maintainer_email "dexter505@yahoo.com"
-license "MIT"
-description "Install Phantomjs"
-version "1.0.0"
